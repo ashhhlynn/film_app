@@ -7,7 +7,7 @@ A Letterboxd inspired social network for film built with a Ruby on Rails and Pos
   </tr>
 </table>
 
-#### :link: <a href="https://film-app.onrender.com/">Website</a> :link: <a href="https://vimeo.com/922334242">Video</a>
+#### :link: <a href="https://film-app.onrender.com/">Website</a>
 
 ### Technologies
 - React.js
